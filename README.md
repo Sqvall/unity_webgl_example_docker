@@ -1,8 +1,7 @@
 # unity_webgl_example_docker
 
-## Insert your build in WebGL_Build dir
-
 ## Build container:
+Insert your build in WebGL_Build dir
 ```bash
 docker build -t your_image_name .
 ```
